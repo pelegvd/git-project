@@ -1,1 +1,1 @@
-print('Hello GitHub')
+print('Version from Branch A')
